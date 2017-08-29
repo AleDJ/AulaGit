@@ -1,0 +1,30 @@
+h1{
+	color: white;
+}
+body {
+	background: #368270; 
+	text-align: center; 
+	color:#02261d;
+}
+p a {
+	color:blue;
+}
+p {
+	font-family: Courier;
+	text-align: right; 
+	color: black;
+}
+a {
+	color:red;
+	text-decoration: none;
+}
+.negrito{
+	font-weight: bold;
+	text-decoration: underline;
+}
+p.negrito{
+
+}
+#destaque{
+	text-decoration: none;
+}
