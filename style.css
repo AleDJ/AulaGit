@@ -11,7 +11,7 @@ p a {
 }
 p {
 	font-family: Courier;
-	text-align: right; 
+	text-align: left; 
 	color: black;
 }
 a {
@@ -27,4 +27,22 @@ p.negrito{
 }
 #destaque{
 	text-decoration: none;
+}
+#imagem{
+	display: block;
+}
+.container{
+	background: yellow;
+	display: flex;
+}
+.coluna{
+	background: pink;
+	margin:20px;
+	padding:10px;
+}
+#coluna1{
+	width:;
+}
+#coluna2{
+	width:;
 }
